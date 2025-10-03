@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #2b5876 0%, #4e4376 100%);
+  color: #fff;
+  min-height: 100vh;
+  overflow: hidden;
+}
+#three-canvas {
+  background: #222;
+}
+#ui-overlay {
+  user-select: none;
+}
